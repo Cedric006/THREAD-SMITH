@@ -1,0 +1,6 @@
+
+{
+  "name": "THREAD-SMITH Modern E-Commerce",
+  "description": "A high-performance, conversion-focused T-shirt e-commerce frontend built with React, Tailwind CSS, and Framer Motion. Features include a dynamic PLP, advanced PDP with zoom, multi-step checkout, and sleek mobile-first design.",
+  "requestFramePermissions": []
+}
